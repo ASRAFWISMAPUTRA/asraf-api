@@ -1,0 +1,15 @@
+[
+    {
+        "nama": "Asraf Wisma Putra",
+        "umur": 21,
+        "nim": "2217020157",
+        "lulus": true,
+        "hobby": [
+            "desain",
+            "businnes"
+        ],
+        "Dosen Pengampuh" : {
+            "pembimbing" : "Aditiya Prasteyo"
+        }
+    }
+]
