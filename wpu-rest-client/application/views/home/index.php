@@ -42,7 +42,7 @@
         ['img' => '3.jpg', 'text' => 'Sekolah Menengah di SMP 02 sitiung'],
         ['img' => '4.jpg', 'text' => 'Sekolah Menengah Atas di MAN 1 kota padang panjang'],
         ['img' => '5.jpg', 'text' => 'Sedang Melaksanakan Kuliah di Universitas Islam Negeri Imam Bonjol Padang'],
-        ['img' => '6.jpg', 'text' => 'Hobi saya Bisnis, Desain, dan mendengarkan musik']
+        ['img' => '6.jpeg', 'text' => 'Hobi saya Bisnis, Desain, dan mendengarkan musik']
       ];
       foreach ($about as $item): ?>
         <div class="col mb-4">
