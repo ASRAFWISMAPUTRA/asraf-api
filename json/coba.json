@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Asraf Wisma Putra",
+        "umur": 21,
+        "nim": "2217020157",
+        "lulus": true,
+        "hobby": [
+            "desain",
+            "businnes"
+        ],
+        "Dosen Pengampuh" : {
+            "pembimbing1" : "Aditiya Prasteyo",
+            "pembimbing2" : "M.Teguh Brilian"
+        }
+    }, 
+    {
+        "nama": "Asraf Wisma Putra",
+        "umur": 21,
+        "nim": "2217020157",
+        "lulus": true,
+        "hobby": [
+            "desain",
+            "businnes"
+        ],
+        "Dosen Pengampuh" : {
+            "pembimbing" : "Aditiya Prasteyo",
+            "pembimbing2" : "M.Teguh Brilian"
+        }
+    }
+]
